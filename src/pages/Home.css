@@ -1,0 +1,103 @@
+.display-3 {
+  color: white;
+}
+.highlight{
+  color:red;
+}
+.mainDiv{
+  background-image:  url("../images/background.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center center;
+height: 95vh;
+}
+.labelText1{
+  margin-top: 22%;
+  margin-left: 10%;
+  font-size: 35px;
+}
+.labelText2{
+  margin-left: 10%;
+  font-size: 35px;
+}
+.labelText3{
+  font-size: 35px;
+  color: orange
+}
+.subLabel{
+  margin-left: 6%;
+  max-width: 26%;
+  opacity: 0.6
+}
+.orderFoodButton{
+  cursor: pointer;
+  outline: none;
+  width: 138px;
+  height: 42px;
+  border-radius: 25px;
+  background-color: orange;
+  margin-left: 6%;
+  margin-top: 15px;
+  color: white;
+  border-block: none;
+  border: none;
+}
+.orderFoodRef{
+  text-decoration: white;
+}
+.fafaIcons{
+  margin-left: 3%;
+}
+.socialLogo{
+  height: 25px;
+  margin-left: 8%;
+  margin-top: 20px;
+}
+.actionContainer{
+  margin-top: 60px;
+  background-image:  url("../images/pexels-photo-1565982.jpeg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  padding: 6%;
+  min-width: 101%;
+}
+.itemContainer{
+  box-shadow: 0 9px 20px 0 rgba(0, 0, 0, 0.1);
+  background-color: #ffffff;
+  margin-left: 6%;
+  padding: 20px;
+}
+.foodMainContainer{
+  margin-top: 50px;
+  margin-left: 30px;
+}
+.foodName{
+  font-size: 20px;
+  margin-top: 19px;
+}
+.checkbox{
+  margin-top: 25px;
+}
+.foodLabel{
+ margin-left: 40px;
+  font-size: 18px;
+  margin-top: 25px;
+}
+.menuContainer{
+  margin-top: 10px;
+}
+h3{
+  font-size: 15px;
+  color: red;
+}
+.foodImage{
+  height: 60px;
+  width: 60px;
+  border-radius: 50%;
+  margin-left: 10px;;
+}
+.button-container{
+  margin-top: 105px;
+  margin-left: 4%;
+}

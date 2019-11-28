@@ -1,0 +1,22 @@
+.navbar-brand {
+  color: #333;
+}
+
+a {
+  /* color: #aaa !important; */
+  font-weight: 200;
+}
+.nav-link{
+  color: white  !important;
+}
+strong{
+  color: orange;
+}
+.nav-item-contact{
+  background: orange;
+  border-radius: 25px;
+  max-height: 36px;
+  min-width: 105px;
+  color: white;
+}
+
